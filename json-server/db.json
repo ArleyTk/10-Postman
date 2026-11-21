@@ -1,0 +1,203 @@
+{
+  "productos": [
+    {
+      "nombre": "Teclado mecánico",
+      "precio": 185000,
+      "stock": 25,
+      "id": "pR4kT9xQw2A"
+    },
+    {
+      "nombre": "Mouse inalámbrico",
+      "precio": 79000,
+      "stock": 40,
+      "id": "mN7bV3cLz8E"
+    },
+    {
+      "nombre": "Monitor 24 pulgadas",
+      "precio": 620000,
+      "stock": 11,
+      "id": "sL1zX5cV9bQ"
+    }
+  ],
+  "usuarios": [
+    {
+      "nombre": "Arley",
+      "correo": "arley@riwi.io",
+      "edad": 28,
+      "id": "6dAAj7dVOAk"
+    },
+    {
+      "nombre": "Peter",
+      "correo": "peter@riwi.io",
+      "edad": 31,
+      "id": "mywN28Rxsfc"
+    },
+    {
+      "nombre": "Camila",
+      "correo": "camila@riwi.io",
+      "edad": 25,
+      "id": "aE3rT6yU8iO"
+    }
+  ],
+  "companias": [
+    {
+      "nombre": "Riwi",
+      "sector": "Educación",
+      "ciudad": "Medellín",
+      "id": "cQ2wE5rT7yU"
+    },
+    {
+      "nombre": "Bancolombia",
+      "sector": "Finanzas",
+      "ciudad": "Medellín",
+      "id": "hG6jK1lZ4xC"
+    },
+    {
+      "nombre": "Avianca",
+      "sector": "Transporte aéreo",
+      "ciudad": "Bogotá",
+      "id": "wR9tY2uI5oP"
+    }
+  ],
+  "empleados": [
+    {
+      "nombre": "Laura Gómez",
+      "cargo": "Desarrolladora Frontend",
+      "salario": 4500000,
+      "id": "bV8nM3qA9sD"
+    },
+    {
+      "nombre": "Carlos Ruiz",
+      "cargo": "Analista de Datos",
+      "salario": 5200000,
+      "id": "fT1yH6uJ0pO"
+    },
+    {
+      "nombre": "Sofía Martínez",
+      "cargo": "Diseñadora UX",
+      "salario": 4100000,
+      "id": "yU4iO7pA2sD"
+    }
+  ],
+  "clientes": [
+    {
+      "nombre": "María Torres",
+      "telefono": "3001234567",
+      "direccion": "Calle 10 #43-20, Medellín",
+      "id": "xZ5cV2bN8mL"
+    },
+    {
+      "nombre": "Andrés Pérez",
+      "telefono": "3109876543",
+      "direccion": "Carrera 70 #52-15, Medellín",
+      "id": "kJ9hG4fD1sA"
+    },
+    {
+      "nombre": "Valentina Ríos",
+      "telefono": "3205551122",
+      "direccion": "Calle 33 #65-40, Envigado",
+      "id": "zX8cV1bN5mQ"
+    }
+  ],
+  "proveedores": [
+    {
+      "nombre": "TecnoSuministros SAS",
+      "contacto": "ventas@tecnosuministros.co",
+      "ciudad": "Bogotá",
+      "id": "qW3eR7tY5uI"
+    },
+    {
+      "nombre": "Distribuciones del Valle",
+      "contacto": "contacto@disvalle.co",
+      "ciudad": "Cali",
+      "id": "oP0aS6dF2gH"
+    },
+    {
+      "nombre": "Insumos del Caribe",
+      "contacto": "info@insumoscaribe.co",
+      "ciudad": "Barranquilla",
+      "id": "lK3jH8gF6dS"
+    }
+  ],
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "anio": 1967,
+      "id": "jK8lZ1xC4vB"
+    },
+    {
+      "titulo": "El coronel no tiene quien le escriba",
+      "autor": "Gabriel García Márquez",
+      "anio": 1961,
+      "id": "nM2qW9eR3tY"
+    },
+    {
+      "titulo": "La vorágine",
+      "autor": "José Eustasio Rivera",
+      "anio": 1924,
+      "id": "eR5tY7uI9oP"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "JavaScript desde cero",
+      "duracion": "40 horas",
+      "nivel": "Básico",
+      "id": "uI5oP7aS1dF"
+    },
+    {
+      "nombre": "APIs REST con Node.js",
+      "duracion": "60 horas",
+      "nivel": "Intermedio",
+      "id": "gH4jK6lZ8xC"
+    },
+    {
+      "nombre": "Arquitectura de microservicios",
+      "duracion": "80 horas",
+      "nivel": "Avanzado",
+      "id": "mB2vC4xZ6lK"
+    }
+  ],
+  "vehiculos": [
+    {
+      "marca": "Renault",
+      "modelo": "Duster 2022",
+      "placa": "ABC123",
+      "id": "vB0nM3qW5eR"
+    },
+    {
+      "marca": "Mazda",
+      "modelo": "CX-30 2023",
+      "placa": "XYZ789",
+      "id": "tY2uI9oP4aS"
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Onix 2021",
+      "placa": "DEF456",
+      "id": "sD6fG8hJ1kL"
+    }
+  ],
+  "pedidos": [
+    {
+      "descripcion": "Teclado mecánico x2",
+      "total": 370000,
+      "estado": "pendiente",
+      "id": "dF7gH1jK3lZ"
+    },
+    {
+      "descripcion": "Mouse inalámbrico x1",
+      "total": 79000,
+      "estado": "entregado",
+      "id": "xC6vB8nM0qW"
+    },
+    {
+      "descripcion": "Monitor 24 pulgadas x1",
+      "total": 620000,
+      "estado": "en camino",
+      "id": "pO9iU7yT5rE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
