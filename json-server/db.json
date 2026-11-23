@@ -61,9 +61,9 @@
   ],
   "empleados": [
     {
-      "nombre": "Laura Gómez",
-      "cargo": "Desarrolladora Frontend",
-      "salario": 4500000,
+      "nombre": "Laura Valentina",
+      "cargo": "Desarrolladora Backend",
+      "salario": 4550000,
       "id": "bV8nM3qA9sD"
     },
     {
@@ -101,12 +101,6 @@
   ],
   "proveedores": [
     {
-      "nombre": "TecnoSuministros SAS",
-      "contacto": "ventas@tecnosuministros.co",
-      "ciudad": "Bogotá",
-      "id": "qW3eR7tY5uI"
-    },
-    {
       "nombre": "Distribuciones del Valle",
       "contacto": "contacto@disvalle.co",
       "ciudad": "Cali",
@@ -117,6 +111,12 @@
       "contacto": "info@insumoscaribe.co",
       "ciudad": "Barranquilla",
       "id": "lK3jH8gF6dS"
+    },
+    {
+      "nombre": "TecnoStudio XD",
+      "contacto": "tecno@gmail.com",
+      "ciudad": "Medellín",
+      "id": "WzMLD29HxwA"
     }
   ],
   "libros": [
